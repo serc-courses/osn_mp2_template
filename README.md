@@ -8,8 +8,7 @@
 - Feel free to update this directory and add your code from the previous assignment here.
 - By now, I believe you are already well aware on how you can check you xv6 implementations. 
 - Just to reiterate, make use of the `procdump` function and the `usertests` and `schedulertest` command.
-- work inside the `concurrency/` directory for the Specification 4 as mentioned in the assignment.
+- work inside the `concurrency/` directory the MultiThreading questions.
 
 - Answer all the theoretical/analysis-based questions (for PBS scheduler and the concurrency questions) in a single `md `file.
 - You may delete these instructions and add your report before submitting. 
-
