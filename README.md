@@ -1,6 +1,8 @@
 # xv6 revisited and concurrency
 OSN Monsoon 2023 mini project 3
 
+- *when will the pain and suffering end?*
+
 ## Some pointers/instructions
 - main xv6 source code is present inside `initial_xv6/src` directory.
 - Feel free to update this directory and add your code from the previous assignment here.
